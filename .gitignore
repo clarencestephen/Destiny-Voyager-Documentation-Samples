@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
+
+# Build / render artifacts (the .docx is the deliverable and IS committed)
+*.pdf
+*.log
+node_modules/
+__pycache__/
